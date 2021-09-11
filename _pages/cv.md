@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
 Education
 ======
 * Bachelor's degree in Management (Minor in Math), Dalhousie University, 2020
@@ -43,5 +42,4 @@ Coding Skills and Languages
 ======
 * Coding skills: Mathematica, Python, R
 * Speaking Languages: Chinese (lative), English (fluent)
-
 
