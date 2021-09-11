@@ -1,16 +1,14 @@
-
-
 ---
-title: "Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Product Reviews"
-collection: publications
-
-excerpt: 'With Hubert Pun and Fredrik Odegaard'
-
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about
+  - /about.html
 ---
 
+Working Papers
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
+Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Product Reviews
 
