@@ -9,8 +9,9 @@ redirect_from:
 
 Education
 ======
-* Bachelor's degree in Management (Minor in Math), Dalhousie University, 2020
 * Ph.D in Management Science, Ivey Business School, 2025 (expected)
+* Bachelor's degree in Management (Minor in Math), Dalhousie University, 2020
+
 
 
 Working Papers 
@@ -33,7 +34,7 @@ Pre-PhD Publications
 
 Honors and Awards
 ======
-* John F. Rankin Doctoral Scholarship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021
+* John F. Rankin Doctoral Scholarship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021
 * Ivey Plan for Excellence (PhD Fellowship) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 2020-2025
 * Dalhousie In-Course Scholarship
 
