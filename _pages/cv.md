@@ -34,13 +34,13 @@ Pre-PhD Publications
 
 Honors and Awards
 ======
-* John F. Rankin Doctoral Scholarship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021
-* Ivey Plan for Excellence (PhD Fellowship) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 2020-2025
+* John F. Rankin Doctoral Scholarship, 2021
+* Ivey Plan for Excellence (PhD Fellowship), 2020-2025
 * Dalhousie In-Course Scholarship
 
   
 Coding Skills and Languages
 ======
 * Coding skills: Mathematica, Python, R
-* Speaking Languages: Chinese (lative), English (fluent)
+* Speaking Languages: Chinese (native), English (fluent)
 
