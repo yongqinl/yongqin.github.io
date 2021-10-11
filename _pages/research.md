@@ -17,7 +17,7 @@ Working Papers
 * False Revealed Preference and Limited Attention.
   * I apply a statistical model and an analytical model of bounded rationality to explain empirical violation of revealed preference, using dataset from an experiment of choice-making conducted at University of California, Berkeley. Individuals have limited attention when making decisions; once individuals have become fatigued of the decision-making process, they pay much less attention to their choices and are more likely to violate the revealed preference axiom. In particular, I find that individuals have heterogenous fatigue points that follow log-normal distribution. Their violation of weak axiom of revealed preference can also be explained through an analytical model that includes attention index. 
 
-Pre-PhD Publications
+Undergrad Publications
 ======
 * Wan, X., Li, D., Chen, J., **Lei, Y**. 2020. [Managing customer returns strategy with the option of selling returned products](https://www.sciencedirect.com/science/article/pii/S0925527320301717). *International Journal of Production Economics* 230 (12) 1077794
 * Yan, N., Chen, J., Pun, H., **Lei, Y**. 2020. [JD: E-invoice with blockchain](https://www.iveypublishing.ca/s/product/jd-einvoice-with-blockchain/01t5c00000CwqpbAAB). *Ivey Publishing*. 9B20M047 (Business Case) and 8B20M047 (Teaching Note)
