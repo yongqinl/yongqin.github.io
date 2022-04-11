@@ -13,7 +13,6 @@ Invited Presentation
 
 
 
-
 Conference Presentations
 ======
 * Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Reviews, POMS, April 2022, online (scheduled)
