@@ -16,5 +16,3 @@ I mainly use game-theoretical model to study topics of interest, including count
 
 
 
-
-
