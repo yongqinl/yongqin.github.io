@@ -3,14 +3,17 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "Honors and Awards"
+    url: /awards/
+    
+    
   - title: "Presentations"
     url: /presentations/
    
   - title: "Professional Service"
     url: /Professional Service/
   
-  - title: "Honors and Awards"
-    url: /awards/
+  
   
 
     
