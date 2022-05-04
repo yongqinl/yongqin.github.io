@@ -9,7 +9,7 @@ redirect_from:
 
 Invited Presentation
 ======
-* Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Reviews, April 2022, PhD Student Seminar, Ivey Business School
+* Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Reviews, PhD Student Seminar, April 2022, Ivey Business School
 
 
 
