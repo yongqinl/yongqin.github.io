@@ -9,6 +9,7 @@ redirect_from:
 
 Professional Service
 ======
-* Session co-chair (New Business Models, conflicts, and regulations), POMS Conference, 2022
+* Session Co-Chair, 2022 POMS Conference
+* Session Chair, 2022 CORS Conference
 
 
