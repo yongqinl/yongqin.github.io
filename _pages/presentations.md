@@ -13,14 +13,15 @@ Invited Presentation
 
 
 
+
 Conference Presentations
 ======
-* Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Reviews, POMS, April 2022, Online 
-* Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Reviews, CORS, June 2022, Vancouver (scheduled)
+* Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Reviews.
+  - POMS, Online, April 2022 
+  - CORS, Vancouver, June 2022 
 
-
-
-
+* Selling Hope with Uncertain Pricing.
+  - INFORMS, Indianapolis, October 2022 
 
 
 
