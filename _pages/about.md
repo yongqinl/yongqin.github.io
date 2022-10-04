@@ -15,7 +15,7 @@ Welcome! I am Yongqin Lei, a third-year PhD student in Management Science at Ive
 <br/>
 Latest news:
 
-* New working paper: [Probabilistic Price Promotions with Zero-Price Effect](https://drive.google.com/file/d/18nA3N3De3QQZZ8U2hKliXMQKTYOQVmGu/view).
+* New working paper: [Probabilistic Price Promotions with Zero-Price Effect](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing).
 * Scheduled to present at INFORMS this year. Happy to meet anyone going there as well!
 * Recently received Reject & Resubmit at POM for my first chapter of dissertation. 
 
