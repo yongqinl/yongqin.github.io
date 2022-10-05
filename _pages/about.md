@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Yongqin Lei, a third-year PhD student in Management Science at Ivey Business School, Western University. I am broadly interested in behavorial economics, pricing strategies, and counterfeiting products. My CV can be found [here](https://drive.google.com/file/d/1r9_h6slWpb_tiDQiftI4gl7DzmM1Zpgi/view?usp=sharing) (updated 2022/09/29).
+Welcome! I am Yongqin Lei, a third-year PhD student in Management Science at Ivey Business School, Western University. I am broadly interested in behavorial economics, pricing strategies, and counterfeiting products. My CV can be found [here](https://drive.google.com/file/d/140ahdGOKFXiK0dz55xOv6TeS8kKNOB2K/view?usp=sharing) (updated 2022/10/05).
 
 
 
