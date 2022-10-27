@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Selected Working Papers
+Selected Working Papers (see CV for full list)
 ======
 
 * Lei, Y., Ødegaard, F. [Probabilistic Price Promotions with Zero-Price Effect](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing). Rej&R at *Production and Operations Management*.
