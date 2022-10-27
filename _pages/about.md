@@ -17,9 +17,3 @@ You can access my PhD application market paper [here](https://drive.google.com/f
 
 
 
-<br/>
-
-Latest news:
-* [Probabilistic Price Promotions with Zero-Price Effect](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing) (2nd chapter of dissertation). Reject & Resubmit at Production and Operations Management.
-* [Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Product Reviews](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915087) (1st chapter of dissertation). Reject & Resubmit at Production and Operations Management.
-
