@@ -21,6 +21,8 @@ Conference Presentations
   - CORS, Vancouver, June 2022 
 
 
+* Selling Hope with Uncertain Pricing
+  - INFORMS, Indianapolis, October 2022 
 
 
 
