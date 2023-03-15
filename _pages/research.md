@@ -18,7 +18,7 @@ Rej&R at *Production and Operations Management*.
 
 
 
-Undergrad Publications
+Publications
 ======
 * Wan, X., Li, D., Chen, J., Lei, Y. 2020. [Managing customer returns strategy with the option of selling returned products](https://www.sciencedirect.com/science/article/pii/S0925527320301717). *International Journal of Production Economics* 230 (12) 1077794
 * Yan, N., Chen, J., Pun, H., Lei, Y. 2020. [JD: E-invoice with blockchain](https://www.iveypublishing.ca/s/product/jd-einvoice-with-blockchain/01t5c00000CwqpbAAB). *Ivey Publishing*. 9B20M047 (Business Case) and 8B20M047 (Teaching Note)
