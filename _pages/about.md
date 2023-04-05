@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Yongqin Lei, a third-year PhD Candidate in Management Science at Ivey Business School, University of Western Ontario. I am broadly interested in behavorial economics, pricing strategies, and OM/Marketing interface. My CV can be found [here](https://drive.google.com/file/d/1WNe7PDFNZbSWAN1ox6WJETdUzFG9DUMs/view?usp=sharing). 
+Welcome! I am Yongqin Lei, a third-year PhD Candidate in Management Science at Ivey Business School, University of Western Ontario. I am broadly interested in behavorial economics, pricing strategies, and OM/Marketing interface. My academic CV can be found [here](https://drive.google.com/file/d/1WNe7PDFNZbSWAN1ox6WJETdUzFG9DUMs/view?usp=sharing). 
 
 
 
