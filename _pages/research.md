@@ -11,7 +11,7 @@ redirect_from:
 Selected Working Papers 
 ======
 
-* Lei, Y., Ødegaard, F. [Probabilistic Price Promotions with Zero-Price Effect](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing). Rej&R at *Production and Operations Management*.
+* Lei, Y., Ødegaard, F. [Probabilistic Price Promotions Without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing). 
  
 * Lei, Y., Pun, H., Ødegaard, F. [Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Product Reviews](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915087). 
 Rej&R at *Production and Operations Management*.
