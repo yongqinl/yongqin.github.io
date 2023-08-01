@@ -9,14 +9,14 @@ redirect_from:
 
 
 
-Conference Presentations(*Denotes Presentation by Coauthor)
+Conference Presentations
 ======
 * Doing Well by Being Well: Corporate Wellness Programs and Incentives to Exercise
-   - INFORMS, Phoenix, October 2023 (scheduled)
+   - INFORMS, Phoenix, October 2023 (Scheduled)
  
 
-* Probabilistic Price Promotions Without Obligations
-  - 18th PSI, University of Utah, Feb 2023* 
+* Probabilistic Price Promotions without Obligations
+  - DSI, Atlanta, November 2023 (Scheduled)
 
 
 * Selling Hope with Uncertain Pricing
@@ -25,7 +25,7 @@ Conference Presentations(*Denotes Presentation by Coauthor)
 * Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Reviews.
   - POMS, Online, April 2022 
   - CORS, Vancouver, June 2022 
-  - CORS, Montreal, May 2023* 
+  - DSI, Atlanta, November 2023 (Scheduled)
 
 
 
