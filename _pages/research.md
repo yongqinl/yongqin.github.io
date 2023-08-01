@@ -14,11 +14,11 @@ Working Papers
 
 * Lei, Y., Pun, H. Two-Sided Platform Competition in the Presence of Tip Baiting 
 
-* Lei, Y., Ødegaard, F. [Probabilistic Price Promotions Without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing). 
+* Lei, Y., Ødegaard, F. [Probabilistic Price Promotions without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing). 
  
 * Lei, Y., Pun, H., Ødegaard, F. [Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Product Reviews](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915087). 
 
-* Lei, Y. Selling Hope With Probabilistic Pricing 
+* Lei, Y. Selling Hope with Probabilistic Pricing 
 
 
 
