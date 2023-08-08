@@ -10,8 +10,8 @@ redirect_from:
 
 Course Taught at Ivey
 ======
-Instructor, HBA 4469 Competing with Analytics (Undergrad),  Fall 2023 
-
+Instructor, HBA 4469 Competing with Analytics (Undergraduate level),  Fall 2023 
+- Case-based teaching covering topics in machine learning and big data analytics
 
 
 Other Teaching-Related Experiences
