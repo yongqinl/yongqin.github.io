@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+Brief Teaching Demonstration
+======
+* A 10-minute teaching demonstration video on YouTube, which can be accessed [here](https://www.youtube.com/watch?v=R3r63OEPzGA)
+
+
+
 
 Course Taught at Ivey
 ======
