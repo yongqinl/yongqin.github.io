@@ -13,3 +13,7 @@ Welcome! I am Yongqin Lei, a fourth-year PhD Candidate in Management Science at 
 
 
 I am on the 2023-2024 job market and  am available for interviews at the upcoming INFORMS conference in Phoenix, the DSI conference in Atlanta, and other events or occasions upon request. You can find my CV [here](https://drive.google.com/file/d/1WNe7PDFNZbSWAN1ox6WJETdUzFG9DUMs/view?usp=sharing).
+
+
+Updates:
+* 08/20/2023: I uploaded a 10-minute teaching demonstration video on YouTube. You can access the video [here](https://www.youtube.com/watch?v=R3r63OEPzGA).
