@@ -10,9 +10,9 @@ redirect_from:
 
 Working Papers 
 ======
-* Lei, Y. [Doing Well by Being Well: Corporate Wellness Programs and Incentives to Exercise](https://drive.google.com/file/d/1mIPObDti98zI20nlsvEkxD_eUeNMAHg2/view?usp=sharing)
-
 * Lei, Y., Pun, H. [Two-Sided Platform Competition in the Presence of Tip Baiting](https://drive.google.com/file/d/1ZmX9Q66YKCj2MBsvnAKfN4YGWiTCkwW8/view?usp=sharing)
+  
+* Lei, Y. [Doing Well by Being Well: Corporate Wellness Programs and Incentives to Exercise](https://drive.google.com/file/d/1mIPObDti98zI20nlsvEkxD_eUeNMAHg2/view?usp=sharing)
 
 * Lei, Y., Ødegaard, F. [Probabilistic Price Promotions without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing) 
  
