@@ -16,7 +16,7 @@ I am on the 2023-2024 job market and  am available for interviews at the upcomin
 
 
 Updates:
-* 09/14/2023: My paper, [Probabilistic Price Promotions without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing), is among the top three finalists for the DSI Doctoral Research Showcase Award Competition! I invite you to attend the [live competition presentations](https://convention2.allacademic.com/one/dsi/dsi23/index.php?cmd=Online+Program+View+Session&selected_session_id=2116834&PHPSESSID=00haqfsq53th59jk0cpltt1q7k), and the winner will be annouced at the Awards Luncheon.
+* 09/14/2023: My paper, [Probabilistic Price Promotions without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing), is among the top three finalists for the DSI Doctoral Research Showcase Award Competition! I invite you to attend the [live competition presentations](https://convention2.allacademic.com/one/dsi/dsi23/index.php?cmd=Online+Program+View+Session&selected_session_id=2116834&PHPSESSID=00haqfsq53th59jk0cpltt1q7k), and the winner will be announced at the Awards Luncheon.
 
   
 * 08/20/2023: I uploaded a 10-minute teaching demonstration video on YouTube. You can access the video [here](https://www.youtube.com/watch?v=R3r63OEPzGA).
