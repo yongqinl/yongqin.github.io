@@ -20,6 +20,5 @@ Updates:
 
 * 09/14/2023: My paper, [Probabilistic Price Promotions without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing), is among the top three finalists for the DSI Doctoral Research Showcase Award Competition! 
 
-
 * 08/20/2023: I uploaded a 10-minute teaching demonstration video on YouTube. You can access the video [here](https://www.youtube.com/watch?v=R3r63OEPzGA).
 
