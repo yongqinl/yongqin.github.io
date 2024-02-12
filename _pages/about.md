@@ -18,10 +18,9 @@ I am on the 2023-2024 job market and  am available for interviews at the upcomin
 Updates:
 
 * 02/12/2024: My [course evaluation](https://drive.google.com/file/d/1TCaiUmY0ixqSks7_Ia4elrhvn_gDbSGT/view?usp=sharing) for Competing with Analytics is now available (rating average: 6.64/7).
-
-
+  
 * 12/06/2023: My paper, [Two-Sided Platform Competition in the Presence of Tip Baiting](https://drive.google.com/file/d/1ZmX9Q66YKCj2MBsvnAKfN4YGWiTCkwW8/view), just received a Reject and Resubmit at *Production and Operations Management*.
-
+  
 * 09/14/2023: My paper, [Probabilistic Price Promotions without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing), is among the top three finalists for the DSI Doctoral Research Showcase Award Competition! 
 
 
