@@ -16,6 +16,7 @@ I am on the 2023-2024 job market and  am available for interviews at the upcomin
 
 
 Updates:
+
 * 02/12/2024: My [course evaluation](https://drive.google.com/file/d/1TCaiUmY0ixqSks7_Ia4elrhvn_gDbSGT/view?usp=sharing) for Competing with Analytics is now available. Really appreciate my students for helping make this amazing teaching experience!
 
 
