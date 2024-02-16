@@ -19,7 +19,6 @@ Course Taught at Ivey
   - My [course evaluation](https://drive.google.com/file/d/1TCaiUmY0ixqSks7_Ia4elrhvn_gDbSGT/view?usp=sharing) is now available (rating average: 6.64/7)
     
 
-
 Other Teaching-Related Experiences
 ======
 * Completed The Teaching Assistant Training Program (TATP), a 20-hour interdisciplinary
