@@ -18,6 +18,7 @@ Working Papers
 
 * Lei, Y., Ødegaard, F. [Probabilistic Price Promotions without Obligations](https://drive.google.com/file/d/1dvGQ0saUXu3etoZIE0KbY6QHL2df0TZt/view?usp=sharing)
    * Finalist for the 2023 DSI Doctoral Research Showcase Award
+   * Revise and Resubmit at *European Journal of Operational Research*
  
 * Lei, Y., Pun, H., Ødegaard, F. [Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Product Reviews](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915087) 
 
