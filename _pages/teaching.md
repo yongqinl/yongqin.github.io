@@ -10,6 +10,11 @@ redirect_from:
 
 
 
+Course Taught at U of Winnipeg
+======
+
+* Instructor, BUS 1201 Introduction to Business (Undergraduate level),  Fall 2024 
+  
 
 
 Course Taught at Ivey
