@@ -20,7 +20,7 @@ Working Papers
 
 
 
-* Lei, Y. [Doing Well by Being Well: Corporate Wellness Programs and Incentives to Exercise](https://drive.google.com/file/d/1mIPObDti98zI20nlsvEkxD_eUeNMAHg2/view?usp=sharing)
+* Lei, Y. Doing Well by Being Well: Corporate Wellness Programs and Incentives to Exercise
 
 
 * Lei, Y. Selling Hope with Probabilistic Pricing 
