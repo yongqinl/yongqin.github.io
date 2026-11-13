@@ -16,7 +16,8 @@ Conference Presentations
  
 
 * Probabilistic Price Promotions without Obligations
-  - DSI, Atlanta, November 2023 
+  - DSI, Atlanta, November 2023
+  - Department of Economics at University of Winnipeg, Winnipeg, March 2026
 
 
 * Selling Hope with Uncertain Pricing
@@ -25,7 +26,11 @@ Conference Presentations
 * Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Reviews.
   - POMS, Online, April 2022 
   - CORS, Vancouver, June 2022 
-  - DSI, Atlanta, November 2023 
+  - DSI, Atlanta, November 2023
+ 
+* Two-Sided Platform Competition in the Presence of Tip Baiting.
+  - CORS, Kingston, June 2026 
+  
 
 
 
